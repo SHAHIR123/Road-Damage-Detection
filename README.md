@@ -4,16 +4,16 @@ Detect damages in the road from the images
 ## Use Case
 **Create a model to detect the damaged road to use in real time computer vision application.**
 
-Create a TensorFlow model which can detect damage roads and show defective road area in red boxes.
+> - Create a TensorFlow model which can detect damage roads and show defective road area in red boxes.
 
 ## Data Set
-**Used data set was a part of "roaddamagedataset" available on kaggle.**
+> - Used data set was a part of "roaddamagedataset" available on kaggle.
 
-Training label was created manually for the used data set sample.
+> - Training label was created manually for the used data set sample.
 
-Image dataset can be found [here](https://www.kaggle.com/shahir/roaddamage)
+> - Image dataset can be found [here](https://www.kaggle.com/shahir/roaddamage)
 
-Training label can be found [here](https://www.kaggle.com/shahir/training-label)
+> - Training label can be found [here](https://www.kaggle.com/shahir/training-label)
 
 ## Solution Model
 
